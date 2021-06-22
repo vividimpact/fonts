@@ -1,0 +1,4 @@
+    @font-face{
+        font-family:"DonJulioW05-Regular";
+        src:url("Fonts/DonJulioW05-Regular.woff2") format("woff2"),url("Fonts/DonJulioW05-Regular.woff") format("woff");
+    }
