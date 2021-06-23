@@ -1,4 +1,4 @@
-# hello-world
+# Vivid Impact Fonts Collection
 
 ## Project setup
 ```
