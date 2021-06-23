@@ -10,5 +10,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:vividimpact/fonts.git master:production
+git push -f git@github.com:vividimpact/fonts.git master:main
 cd -
